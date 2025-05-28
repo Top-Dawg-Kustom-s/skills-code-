@@ -1,6 +1,5 @@
-<header>
-
-<!--
+<TopDawgKustomService>
+<
   <<< Author notes: Course header >>>
   Read <https://skills.github.com/quickstart> for more information about how to build courses using this template.
   Include a 1280×640 image, course name in sentence case, and a concise description in emphasis.
@@ -49,7 +48,6 @@ To begin developing using GitHub Codespaces, you can create a codespace from a t
 
    > Wait about 2 minutes for the codespace to spin itself up.
    > **Note**: It's a virtual machine spinning up in the background.
-
 1. Verify your codespace is running. The browser should contain a VS Code web-based editor and a terminal should be present such as the below:
    ![codespace1](https://user-images.githubusercontent.com/26442605/207355196-71aab43f-35a9-495b-bcfe-bf3773c2f1b3.png)
 
